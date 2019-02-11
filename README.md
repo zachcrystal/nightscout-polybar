@@ -4,7 +4,7 @@ A script that fetches your current blood sugar and trend from Nightscout and dis
 
 ## Dependencies
 
-None
+Font Awesome 5
 
 ## Configuration
 
